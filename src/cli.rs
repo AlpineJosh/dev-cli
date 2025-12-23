@@ -9,6 +9,7 @@ pub struct Cli {
     #[command(subcommand)]
     pub command: Option<Commands>,
 
+
     /// Target project or branch name
     #[arg(value_name = "TARGET")]
     pub target: Option<String>,
