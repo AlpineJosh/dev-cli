@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/AlpineJosh/dev-cli/compare/v0.1.0...v0.1.1) (2025-12-23)
+
+
+### Bug Fixes
+
+* trigger build ([4b95525](https://github.com/AlpineJosh/dev-cli/commit/4b9552552170e272a4decc991cc00db20da59a96))
+
 ## 0.1.0 (2025-12-23)
 
 
