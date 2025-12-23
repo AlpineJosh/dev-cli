@@ -1,0 +1,8 @@
+# Changelog
+
+## 0.1.0 (2025-12-23)
+
+
+### Features
+
+* add Homebrew release automation ([cdbfe1c](https://github.com/AlpineJosh/dev-cli/commit/cdbfe1c35f14b2b10fec87a3c0e8d6999fe68f4b))
