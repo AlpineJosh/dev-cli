@@ -12,6 +12,7 @@ pub fn run() -> Result<()> {
         return Err(DevError::NotGitRepository);
     }
 
+
     let worktrees = list_worktrees()?;
 
     // Find problematic worktrees
